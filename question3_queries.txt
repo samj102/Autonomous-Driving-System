@@ -1,0 +1,17 @@
+
+% Query description checking if toyota can go straight on green light.
+QUERY 1: canGo(toyota, south).
+
+% Query description checking if nissan can take a right on green light.
+QUERY 2: canGo(nissan,east).
+
+% Query description can chevrolet go straight on a red light
+QUERY 3: canGo(chevrolet, east).
+
+% Query description checking if chevrolet can take a right on a red light while a car is coming in that direction.
+QUERY 4: canGo(chevrolet, south).
+
+% Query description checking if a toyota can take a left on a green if a car is coming from the opposite direction.
+QUERY 5: canGo(toyota, east).
+
+
