@@ -15,7 +15,6 @@ counterclockwise(south, west).
 counterclockwise(west, north).
 
 
-
 %%%%% ATOMIC: reverseDirection
 % Add the atomic propositions for reverseDirection (part a) in this section
 reverseDirection(east, west).
@@ -39,15 +38,13 @@ lightColour(east, red).
 lightColour(west, red).
 
 
-%%%%% ATOMIC: clockwise
-% Add the atomic propositions for clockwise (part a) in this section
-
 
 
 %%%%% RULE: canGo
-% Add the rules for canGo in this section
+
 
 %%%first rule
+
 canGo(Car, Direction) :-
 facing(Car, Direction),
 lightColour(Direction, green).
