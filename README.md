@@ -1,7 +1,7 @@
-Autonomous Driving System | September 2022
+Autonomous Driving System | September 2023
 
 Project Overview
-In September 2022, I spearheaded the development of an innovative AI-driven autonomous driving system, utilizing Prolog as the core technology. This project is a testament to my skills in logic programming and problem-solving, designed to navigate the complexities of real-world driving scenarios.
+In September 2023, I spearheaded the development of an innovative AI-driven autonomous driving system, utilizing Prolog as the core technology. This project is a testament to my skills in logic programming and problem-solving, designed to navigate the complexities of real-world driving scenarios.
 
 Key Features and Technologies
 
